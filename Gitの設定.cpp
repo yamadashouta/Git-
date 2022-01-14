@@ -5,7 +5,7 @@
 
 int main()
 {
-    std::cout << "Hello Visual Stdudio Git!\n";
+    std::cout << "コンフリクトのためにリモートで変更\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
